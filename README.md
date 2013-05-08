@@ -1,5 +1,6 @@
 
 #广告相关术语
+
 ##Ad Network
 An online advertising network or ad network is a company that connects advertisers to web sites that want to host advertisements.
 
@@ -11,6 +12,7 @@ An online advertising network or ad network is a company that connects advertise
 Ad exchanges are technology platforms that facilitate the bidded buying and selling of online media advertising inventory from multiple ad networks. 
 
 * Reference: <http://en.wikipedia.org/wiki/Ad_exchange>
+
 
 ##RTB
 `Real-time bidding`.
@@ -27,6 +29,7 @@ A `demand-side platform` (DSP) is a system that allows buyers of digital adverti
 A Supply-Side Platform or Sell-Side Platform (SSP) is a technology platform with the single mission of enabling publishers to manage their ad impression inventory and maximize revenue from digital media.
 
 * Reference: <http://en.wikipedia.org/wiki/Sell_Side_Platform>
+
 ##CPC
 
 每点击成本(Cost Per Click；Cost Per Thousand Click-Through)   
@@ -43,12 +46,16 @@ eCPM （`effective cost per mille`）指的就是每一千次展示可以获得�
 
 ## CTR
 `Click Through Rate`的英文缩写，指网页的广告点击率。CTR是衡量互联网广告效果的一项重要指标。
+
 ## PV
 PV（`page view`）即页面浏览量，通常是衡量一个网络新闻频道或网站甚至一条网络新闻的主要指标。网页浏览数是评价网站流量最常用的指标之一，简称为PV。
+
 ## CLICK
 指广告的点击。
+
 ## ORI
 ROI(`Return On Investment`)的中文翻译为投资回报率，它是指通过投资而应返回的价值，它涵盖了企业的获利目标，又称会计收益率、投资利润率
+
 ## Bid Ranking
 Bid Ranking Or Bidding Ranking
 
