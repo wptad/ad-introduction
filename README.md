@@ -9,13 +9,24 @@ An online advertising network or ad network is a company that connects advertise
 
 ##Ad Exchange
 
-Ad exchanges are technology platforms that facilitate the bidded buying and selling of online media advertising inventory from multiple ad networks. 
+`Ad exchanges` are technology platforms that facilitate the bidded buying and selling of online media advertising inventory from multiple ad networks. 
+
+`Ad Exchange`是互联网广告交易平台，像股票交易平台一样，Ad Exchange联系的是广告交易的买方和卖方，也就是广告主方和广告位拥有方。
+
+
+和股票交易平台不同的是，Ad Exchange平台的竞价机制不是先到先得而是竞价获得，即RTB模式。
+RTB —— Real Time Bidding 
+![ad exchange](http://c.hiphotos.baidu.com/baike/c%3DbaikeA1%2C10%2C95/sign=1e22125d800a19d8df03d3545a91e7ca/d52a2834349b033b8928b73615ce36d3d439b6003bf39d86.jpg)
+
+![ad exchange](http://d.hiphotos.baidu.com/baike/c%3DbaikeA1%2C10%2C95/sign=135eafdcbaa1cd1111b62571d079adbd/96dda144ad3459825935ae7e0cf431adcaef76094a36a4a3.jpg)
 
 * Reference: <http://en.wikipedia.org/wiki/Ad_exchange>
-
+* Reference: <http://baike.baidu.com/view/7098226.htm>
 
 ##RTB
-`Real-time bidding`.
+`Real-time bidding`的简称，就是实时竞价。跟传统购买形式相比，RTB是在每一个广告展示曝光的基础上进行竞价，就是每一个PV都会进行一次展现竞价，谁出价高，谁的广告就会被这个PV看到。
+
+
 
 
 ##DSP
