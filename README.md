@@ -16,6 +16,8 @@ An online advertising network or ad network is a company that connects advertise
 
 和股票交易平台不同的是，Ad Exchange平台的竞价机制不是先到先得而是竞价获得，即RTB模式。
 RTB —— Real Time Bidding 
+
+
 ![ad exchange](http://c.hiphotos.baidu.com/baike/c%3DbaikeA1%2C10%2C95/sign=1e22125d800a19d8df03d3545a91e7ca/d52a2834349b033b8928b73615ce36d3d439b6003bf39d86.jpg)
 
 ![ad exchange](http://d.hiphotos.baidu.com/baike/c%3DbaikeA1%2C10%2C95/sign=135eafdcbaa1cd1111b62571d079adbd/96dda144ad3459825935ae7e0cf431adcaef76094a36a4a3.jpg)
@@ -64,7 +66,7 @@ PV（`page view`）即页面浏览量，通常是衡量一个网络新闻频道�
 ## CLICK
 指广告的点击。
 
-## ORI
+## ROI
 ROI(`Return On Investment`)的中文翻译为投资回报率，它是指通过投资而应返回的价值，它涵盖了企业的获利目标，又称会计收益率、投资利润率
 
 ## Bid Ranking
