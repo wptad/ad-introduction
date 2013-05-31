@@ -22,8 +22,17 @@ RTB —— Real Time Bidding
 
 ![ad exchange](http://d.hiphotos.baidu.com/baike/c%3DbaikeA1%2C10%2C95/sign=135eafdcbaa1cd1111b62571d079adbd/96dda144ad3459825935ae7e0cf431adcaef76094a36a4a3.jpg)
 
+
 * Reference: <http://en.wikipedia.org/wiki/Ad_exchange>
 * Reference: <http://baike.baidu.com/view/7098226.htm>
+
+## 百度流量交易服务（Baidu Exchange Service）
+
+
+`百度流量交易服务（Baidu Exchange Service）`基于实时竞价交易协议，和流量供需双方进行对接，提升投放效率与投放收益。百度流量交易服务严格审查接入的代理公司、需求方的资质，保证媒体用户体验。同时通过对每次展现实时竞价，让媒体的每次流量展现都得到最大收益。合作媒体可以自主设置投放客户限制与创意审核，并设定展现底价，提升流量变现能力。
+
+![Baidu Exchange Service](http://www.rtbchina.com/wp-content/uploads/2013/05/BES_howdoesitwork.png)
+
 
 ##RTB
 `Real-time bidding`的简称，就是实时竞价。跟传统购买形式相比，RTB是在每一个广告展示曝光的基础上进行竞价，就是每一个PV都会进行一次展现竞价，谁出价高，谁的广告就会被这个PV看到。
