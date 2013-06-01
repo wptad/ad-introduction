@@ -22,6 +22,7 @@ RTB —— Real Time Bidding
 
 ![ad exchange](http://d.hiphotos.baidu.com/baike/c%3DbaikeA1%2C10%2C95/sign=135eafdcbaa1cd1111b62571d079adbd/96dda144ad3459825935ae7e0cf431adcaef76094a36a4a3.jpg)
 
+* 大图下载: <http://www.rtbchina.com/wp-content/uploads/2012/05/adexchange_baidu_UEO.png>
 
 * Reference: <http://en.wikipedia.org/wiki/Ad_exchange>
 * Reference: <http://baike.baidu.com/view/7098226.htm>
@@ -90,5 +91,6 @@ abiding ranking 是 `固定排名`
 #Reference 
 * 广告家：<http://adpro.cn>
 * Media Pro <http://adpro.cn/product-adsys.html>
+* RTB China <http://www.rtbchina.com/info-graph-ad-exchange.html>
 
 
