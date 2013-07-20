@@ -9,7 +9,7 @@ An online advertising network or ad network is a company that connects advertise
 
 ##Ad Exchange
 
-`Ad exchanges` are technology platforms that facilitate the bidded buying and selling of online media advertising inventory from multiple ad networks. 
+`Ad exchange` are technology platforms that facilitate the bidded buying and selling of online media advertising inventory from multiple ad networks. 
 
 `Ad Exchange`是互联网广告交易平台，像股票交易平台一样，Ad Exchange联系的是广告交易的买方和卖方，也就是广告主方和广告位拥有方。
 
